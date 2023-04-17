@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🙋‍♂️Who am i
+  * 🐣 I was born in Yongin, Korea in 1998.
+  * 💒 I'm currently living in Seoul, Korea.
+  * 🎯 I'm currently interested in Backend developer
+  * 📫 How to reach me: "mjinsu098@gmail.com"
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=greats8669)](https://solved.ac/greats8669/)
