@@ -1,23 +1,22 @@
-<!--
-**jinsu868/jinsu868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 🙋‍♂️
 
-Here are some ideas to get you started:
+I'm JinSu Moon (문진수), a passionate Backend Engineer with a growing interest in infrastructure. My main focus is on developing highly available and reliable services, primarily using Java Spring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- **Language:** Java, JavaScript, C, C++, Python
+- **Backend:** Spring
+- **Frontend:** React
+- **Infrastructure:** Docker, github Action, Nginx, Prometheus, Grafana
+- **DB:** MySQL, Redis
 
-### 🙋‍♂️Who am i
-  * 🐣 I was born in Yongin, Korea in 1998.
-  * 💒 I'm currently living in Seoul, Korea.
-  * 🎯 I'm currently interested in Backend developer
-  * 📫 How to reach me: "mjinsu098@gmail.com"
+### 🎓 Education
+- Sangmyung University (2018.02 ~ 2024.02)
+- SSAFY (2024.06 ~)
 
+### 👨‍💻 Projects
+- [Chick](https://github.com/jinsu868/Chick-backend) (취준생 커뮤니티 애플리케이션) (2023.11 ~ 2024.02)
+- [Palgona](https://github.com/Palgona/Backend) (중고물품 경매 애플리케이션) (2024.01 ~ 2024.04)
+- [GrabTable](https://github.com/GrabTable/GrabTable) (식당 예약 애플리케이션) (2024.07 ~)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=greats8669)](https://solved.ac/greats8669/)
+### 📧 Contact
+* **Email:** [mjinsu098@gmail.com](mailto:mjinsu098@gmail.com)
