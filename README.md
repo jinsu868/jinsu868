@@ -5,7 +5,6 @@ I'm JinSu Moon (문진수), a passionate Backend Engineer with a growing interes
 ### 💻 Skills
 - **Language:** Java, JavaScript, C, C++, Python
 - **Backend:** Spring
-- **Frontend:** React
 - **Infrastructure:** Docker, github Action, Nginx, Prometheus, Grafana
 - **DB:** MySQL, Redis
 
@@ -15,7 +14,7 @@ I'm JinSu Moon (문진수), a passionate Backend Engineer with a growing interes
 
 ### 👨‍💻 Projects
 - [Chick](https://github.com/jinsu868/Chick-backend) (취준생 커뮤니티 애플리케이션) (2023.11 ~ 2024.02)
-- [Palgona](https://github.com/Palgona/Backend) (중고물품 경매 애플리케이션) (2024.01 ~ 2024.04)
+- [Palgona](https://github.com/jinsu868/palgonaa) (중고물품 경매 애플리케이션) (2024.01 ~ 2024.04, 리팩토링 진행중)
 - [GrabTable](https://github.com/GrabTable/GrabTable) (식당 예약 애플리케이션) (2024.07 ~)
 
 ### 📧 Contact
